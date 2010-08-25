@@ -312,7 +312,7 @@ body {
 	.middle {
 		margin-top: 140px;
 	}
-</style><title>ScreenMe</title><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"></head><body><div class="top_bar"><h1>ScreenMe</h1><h2 id="by">by pwndu</h2></div><div class="middle_wrapper"><div class="bubble middle"><div class="shadow"></div><div id="texts"><div class="ttitle ttop">ScreenMe</div><div class="ttext">Use 'starscreen' to enhance your iPod touch / iPhone's lockscreen!<br>Easy to download, easy to use, enjoyable.</div><div class="ttext">Enjoy.</div></div><a href="http://www.screenme.com.nu/tools.html" id="faqlink" class="tbottom">More Info &raquo;</a></div></div>div></div></div>
+</style><title>ScreenMe 1.0</title><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"></head><body><div class="top_bar"><h1>ScreenMe</h1><h2 id="by">by pwndu</h2></div><div class="middle_wrapper"><div class="bubble middle"><div class="shadow"></div><div id="texts"><div class="ttitle ttop">ScreenMe</div><div class="ttext">Use 'starscreen' to enhance your iPod touch / iPhone's lockscreen!<br>Easy to download, easy to use, enjoyable.</div><div class="ttext">Enjoy.</div></div><a href="http://www.screenme.com.nu/tools.html" id="faqlink" class="tbottom">More Info &raquo;</a></div></div>div></div></div>
 
 <!-- Code adapted by pwndu from comex's jailbreak me tool.
 The source of this website if available for free download at
